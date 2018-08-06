@@ -24,13 +24,10 @@
 
 /* Positioning Classes */
 
-[class*="col-"] {
-  margin-left: 2%;
-}
-
 .col-1 {
   float: left;
-  width: 32%;
+  width: 65.333%;
+  margin-right: 2%;
 }
 
 .col-2 {
