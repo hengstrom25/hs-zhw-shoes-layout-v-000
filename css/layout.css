@@ -41,7 +41,7 @@
 }
 
 .col-3 {
-  margin-left: 0%;
+  float: left;
 }
 
 .first {
